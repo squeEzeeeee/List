@@ -1,0 +1,21 @@
+{
+  "workers" : [
+    {
+      "id" : 1,
+      "name" : "Serega",
+      "title" : "Bratan"
+    },{
+      "id" : 2,
+      "name" : "Sanya",
+      "title" : "Bratok"
+    },{
+      "id" : 3,
+      "name" : "Vitya",
+      "title" : "Bratanok"
+    },{
+      "id" : 4,
+      "name" : "Dima",
+      "title" : "Loh"
+    }
+  ]
+}
